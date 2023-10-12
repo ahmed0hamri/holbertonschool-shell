@@ -1,2 +1,2 @@
 #!/bin/bash
-shown --from hello vincent guillaume
+chown --from hello vincent=guillaume
