@@ -1,0 +1,3 @@
+#!/bin/bash
+mkdir permission/my_dir
+chmod permission/my_dir
